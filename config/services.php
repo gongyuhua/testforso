@@ -37,7 +37,7 @@ return [
     'facebook' => [
         'client_id' => '1770715279683291',         // Google Client ID
         'client_secret' => 'c897d67a38f2986df6318dc4ae43c9dd', //  Google Client Secret
-        'redirect' => 'http://127.0.0.1/login/facebook/callback',
+        'redirect' => 'https://testforsocia.herokuapp.com/login/facebook/callback',
     ],
 
 ];
